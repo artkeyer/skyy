@@ -1,7 +1,7 @@
 #!/bin/sh
 
-UUID=ad75a202-1afe-4af2-bd79-fdbeb872365c
-WSPATH=/sione
+UUID=ad75a202-1aef-4af2-bd79-fbded873256c
+WSPATH=/sio
 PORT=80
 
 
